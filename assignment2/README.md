@@ -1,4 +1,4 @@
-##GitHub
+## GitHub
 It's a tool that developers use for:
 
 1-Code editing managment, by that i mean every one can edit the same code and upload their edits without causing interuption or confusion to each other, this is possible by a feature called "push and pull" where each developer pulls (download) the code and after he edits it he can't push (upload) it back if another developer has edited the code and pushed it back before him until he pulls the newer version and then he can edit it and push it to GitHub.
@@ -10,7 +10,7 @@ It's a tool that developers use for:
 4-and finally you might be able to get a job by being an effective member in GetHub community because you can provide your contact informations for the other to contact you and wether you are employed or not.
 
 
-##Markdown language
+## Markdown language
 
 Previously we talked about providing informations about a certain project ,so how that can be done using GetHub ?
 
