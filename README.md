@@ -16,6 +16,8 @@
 For me personally, i keep my growth mindset up by:
 
 1.Reminding myself that the hard times will pass and nothing stays the same.
+
 2.Reminding myself that after these times pass i will be better at dealing with the upcoming difficulties.
+
 3.Staying around the people with growth mindset and leaving the negative and toxic people.
 
