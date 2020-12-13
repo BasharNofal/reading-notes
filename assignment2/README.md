@@ -18,4 +18,7 @@ Markdown language is a simple language that developers use to make explaining co
 
 here are some examples:
 
-if we want to write a bold text we use (** text/*/*) and 
+if we want to write a bold text we use ** text **... the result will be **text**
+
+if we want to point out a code we use \`this is code text \`... the result will be `this is code text`
+
