@@ -19,7 +19,7 @@ now your repo should be downloaded on your local device.
 
 Here is a chart that explains the flow for the whole procces
 
-[Git commands sequence](https://developers.redhat.com/sites/default/files/inline-images/git%20commands%20sequence.png)
+![Git commands sequence](https://developers.redhat.com/sites/default/files/inline-images/git%20commands%20sequence.png)
 
 For more functions and options that you can use with **Git**, please click on the following link ([Git Command](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2)
 
