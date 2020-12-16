@@ -1,7 +1,7 @@
-## JS: Expressions + Operators and Functions
+# JS: Expressions + Operators and Functions
 
 
-# Expressions + Operators
+## Expressions + Operators
 
 There are many types of operators:
 
@@ -31,7 +31,7 @@ For more detailed information, check the image under
 
 ![Expressions and operators](https://lh3.googleusercontent.com/proxy/XsujZBfQ5tmfhqxc8TXOiGQSKT-XTnL9XiP3-EtLMTPSaqqAOoaIPcACzozbQl2ofh5FlI40KiaBYFJXoFwfEEBTRqDAwJGVtklhjzob)
 
-# Functions
+## Functions
 
 The command *fucntion* is used for calling series of commands by typing the name of the function, which makes the whole *JS* page more readable and easier to apply edits to.
 
