@@ -24,24 +24,33 @@ function WriteYourPass(){
 } 
 alert("Welcome " + name);
 
+let pickOrder =  function (){
 
-let item='';
-Order();
+   let order=prompt("What would you like to eat (burger/steak) ?") ;
 
-function Order(){
+   let food='';
 
-    order=prompt("What would you like to eat (burger/shawrma/healthy food/steaks) ?") ;
-
-    if (order="burger"){
-
-       item='<img>src="burger.png">';
-
-    }
-    
+while(order !== "burger" && order !== "steak"){
+    order=prompt("sorry, what you have picked is not available today, please pick something else");
+}  
 
 
+if(order==="burger"){
+     
+    food='<img src ="burger.png"> ' ;
+} else if (order ==="steak")
+    food='<img src="steak.png"/>';
+
+    return food ;
+}
+
+let showOrder = function(){
+
+    let food=pickOrder();
+    document.write(food);
+}
         
 
 
-}
+
 
